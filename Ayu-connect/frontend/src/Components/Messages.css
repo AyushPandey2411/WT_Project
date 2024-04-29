@@ -1,0 +1,72 @@
+/* General Styles */
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* Style for the Messages Section */
+#messages {
+  margin-top: 20px;
+  position: relative;
+  z-index: 2; /* Ensure messages are displayed on top */
+  color: white;
+}
+
+.message-list {
+  list-style: none;
+  padding: 0;
+}
+
+.message {
+  display: flex;
+  align-items: center;
+  margin-bottom: 15px;
+}
+
+.message img {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 10px;
+}
+
+.message-content h3 {
+  margin: 0;
+  font-size: 1.2em;
+}
+
+.message-content p {
+  margin: 5px 0;
+}
+
+/* Style for alternating message background colors */
+.message:nth-child(even) {
+  background-color: #28a21f;
+}
+.message:nth-child(odd) {
+  background-color: #6f12e1;
+}
+
+/* Black Background Overlay */
+.black-overlay {
+  background-color: rgba(0, 0, 0, 0.797); /* Adjust opacity as needed */
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1; /* Ensure the black background is behind the messages */
+}
+
+/* Background Image */
+.black-overlay {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgXrvn1icODZcHeJhPjM8XkZAD_EGTZy-qUQ&s");
+  background-size: cover;
+  background-position: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0; /* Ensure the background image is behind the black overlay */
+}

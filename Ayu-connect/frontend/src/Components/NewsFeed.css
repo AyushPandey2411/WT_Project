@@ -1,0 +1,37 @@
+#news-feed-section {
+    background-color:rgba(6, 230, 230, 0.63); /* Grey background color */
+    padding: 20px; /* Add padding for spacing */
+  }
+  
+  .news-article {
+    margin-bottom: 20px; /* Add margin between articles */
+    border-radius: 8px; /* Add border radius for a slightly rounded appearance */
+    border:2px solid black;
+    overflow: hidden; /* Hide overflowing content */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle shadow for depth */
+  }
+  
+  .news-article img {
+    width: 20%; /* Ensure the image fills its container */
+    display: block; /* Remove any default spacing */
+  }
+  
+  .article-details {
+    padding: 20px; /* Add padding for content */
+  }
+  
+  .article-title {
+    font-size: 1.2em; /* Increase font size for titles */
+    margin-top: 0; /* Remove default margin */
+  }
+  
+  .article-summary {
+    color: #555; /* Darker text color for summary */
+  }
+  
+  .article-meta {
+    color: #777; /* Lighter text color for meta information */
+    margin-top: 5px; /* Add spacing between summary and meta */
+    font-style: italic; /* Italicize meta information */
+  }
+  
