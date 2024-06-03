@@ -10,12 +10,11 @@ Architected and integrated MongoDB,Cloudinary into the application’s backend t
 
 ![image](https://github.com/AyushPandey2411/WT_Project/assets/149993829/d90f2268-b1e5-4877-9386-5b035a1225b0)
 
-
-![image](https://github.com/AyushPandey2411/WT_Project/assets/149993829/91bbb97f-9dd6-4e15-92c3-5fa5a1052c7d)
-
-
 ****Messages and Newsfeed Section
 ![image](https://github.com/AyushPandey2411/WT_Project/assets/149993829/80ca8306-6fbf-4326-8abc-28730b3e99d9)
+
+![image](https://github.com/AyushPandey2411/WT_Project/assets/149993829/c7e1e2fb-1bbb-4aa1-808e-2d84fd2271e4)
+
 
 ![image](https://github.com/AyushPandey2411/WT_Project/assets/149993829/e82d1ecd-c825-4fc1-975b-325b4154d514)
 
@@ -24,3 +23,4 @@ LogOut****
 
 Log Out Button will make the user logging Out and will redirect User to Sign Up page
 ![image](https://github.com/AyushPandey2411/WT_Project/assets/149993829/493f0a9f-f3ec-40c2-8bdc-110a87ee96bf)
+
