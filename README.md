@@ -1,6 +1,6 @@
-Social Networking Website is made using MERN Stack to allow users to create profiles, connect with friends,create posts, share posts, and engage in various social activities. 
-Designed an intuitive and visually stunning user interface using ReactJS.
-The primary focus was on harnessing the power of Node.js and Express to build a scalable and efficient backend architecture. 
+Ayu_Connect is a Social Networking Website,made using MERN Stack to allow users to create profiles, connect with friends,create posts, share posts, and engage in various social activities. 
+I have Designed an intuitive and visually stunning user interface using ReactJS.
+My primary focus was on harnessing the power of Node.js and Express to build a scalable and efficient backend architecture. 
 Architected and integrated MongoDB,Cloudinary into the application’s backend to facilitate seamless data management, meticulously designing models and schemas to ensure optimal performance and maintainability
 
 
@@ -10,14 +10,8 @@ Architected and integrated MongoDB,Cloudinary into the application’s backend t
 
 ![image](https://github.com/AyushPandey2411/WT_Project/assets/149993829/d90f2268-b1e5-4877-9386-5b035a1225b0)
 
-![image](https://github.com/AyushPandey2411/WT_Project/assets/149993829/2e1187a2-afad-43b1-8173-ba266a2780f9)
-
-
 
 ![image](https://github.com/AyushPandey2411/WT_Project/assets/149993829/91bbb97f-9dd6-4e15-92c3-5fa5a1052c7d)
-
-![image](https://github.com/AyushPandey2411/WT_Project/assets/149993829/e066eb9e-252f-4d70-a7c6-5a3a4fe497de)
-
 
 
 ****Messages and Newsfeed Section
@@ -30,7 +24,3 @@ LogOut****
 
 Log Out Button will make the user logging Out and will redirect User to Sign Up page
 ![image](https://github.com/AyushPandey2411/WT_Project/assets/149993829/493f0a9f-f3ec-40c2-8bdc-110a87ee96bf)
-
-
-
-
