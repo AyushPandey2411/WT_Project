@@ -12,13 +12,13 @@ Architected and integrated MongoDB,Cloudinary into the application’s backend t
 
 ![image](https://github.com/AyushPandey2411/WT_Project/assets/149993829/2e1187a2-afad-43b1-8173-ba266a2780f9)
 
-![image](https://github.com/AyushPandey2411/WT_Project/assets/149993829/bbdfd65f-9b95-410d-a579-e01346213f54)
+
 
 ![image](https://github.com/AyushPandey2411/WT_Project/assets/149993829/91bbb97f-9dd6-4e15-92c3-5fa5a1052c7d)
 
 ![image](https://github.com/AyushPandey2411/WT_Project/assets/149993829/e066eb9e-252f-4d70-a7c6-5a3a4fe497de)
 
-![image](https://github.com/AyushPandey2411/WT_Project/assets/149993829/25afd665-40d2-4540-8873-1e480c24e6c0)
+
 
 ****Messages and Newsfeed Section
 ![image](https://github.com/AyushPandey2411/WT_Project/assets/149993829/80ca8306-6fbf-4326-8abc-28730b3e99d9)
